@@ -47,7 +47,7 @@ async function run() {
      * @returns {string}
      */
     const replacePlaceholder = (text, placeholder) =>
-      text.replace(/(<!-- Replace -->)(.*)(<!-- Replace -->)/, placeholder);
+      text.replace(/(<!-- Replace -->)(.*)(<!-- Replace -->)/s, placeholder);
 
     if (descriptionMessage) {
       const descriptionWithPlaceholder = placeholderWrap(descriptionMessage)
