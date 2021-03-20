@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/344987348/55907000-896a-11eb-9c52-ebeaf9900503" height="300" />
+<img src="https://repository-images.githubusercontent.com/344987348/d0f22180-896a-11eb-8946-a7af329c8698" alt="Beakyn - Comment Pull Request" height="300" />
 
 # Comment Pull Request
 
