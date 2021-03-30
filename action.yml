@@ -1,4 +1,4 @@
-name: "Comment Pull Request"
+name: "gha-comment-pull-request"
 description: "Add comments to pull request. It could also append text to description."
 inputs:
   pull-request-number:
