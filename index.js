@@ -46,7 +46,7 @@ async function run() {
      * @param {string} placeholder 
      * @returns {string}
      */
-    const replacePlaceholder = (text, placeholder) =>
+    const replacePlaceholder = (text = '', placeholder = '') =>
       text.replace(/(<!-- Replace -->)(.*)(<!-- Replace -->)/s, placeholder);
 
     if (descriptionMessage) {
